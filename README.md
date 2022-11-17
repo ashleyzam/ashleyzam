@@ -5,7 +5,7 @@
 **Hi! My name is Ashley. I'm a software developer. Currently working as a frontend mentor, I love teaching and to keep learning**
 
 
-# **Main** _technologies_
+# **Main** technologies
 
 ![html5](https://user-images.githubusercontent.com/89202684/202577353-3e58325c-9d02-4509-893e-fab37a0b5563.svg)
 ![css3 (1)](https://user-images.githubusercontent.com/89202684/202577980-4b8cad31-c9eb-405c-9f25-05c8a3cd05e5.svg)
