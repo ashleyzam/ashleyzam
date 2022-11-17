@@ -2,7 +2,7 @@
 
 ![presentation_AdobeExpress](https://user-images.githubusercontent.com/89202684/202572390-1f0e9f96-3f65-4bce-99c4-8b0e9bf015af.gif) 
 
-**Hi! My name is Ashley. I'm a software developer. Currently working as a frontend mentor, I love teaching and to keep on learning**
+**Hi! My name is Ashley. I'm a software developer. Currently working as a frontend mentor, I love teaching and to keep learning**
 
 
 # **Main** _technologies_
