@@ -9,7 +9,7 @@
 
 ![html5 (1)](https://user-images.githubusercontent.com/89202684/202717554-c768037f-5dd9-49bc-8eea-57081a2e9e4e.svg)
 ![css3 (2)](https://user-images.githubusercontent.com/89202684/202719387-acd4b19b-cd97-48bf-9ef4-780a79b7f3ef.svg)
-![js (3)](https://user-images.githubusercontent.com/89202684/202719843-8c1724b1-09e3-4d93-9bce-90cc4c2a8fe5.svg)
+![js (3)](https://user-images.githubusercontent.com/89202684/202720616-1b674488-8c5a-4eb9-92a9-d3825c1852af.svg)
 ![sass (1)](https://user-images.githubusercontent.com/89202684/202718634-4335da9f-bd5e-4c4f-8e7c-a25b586837a4.png)
 ![react (2)](https://user-images.githubusercontent.com/89202684/202718920-9405cdc4-dcc4-456e-8d37-a2c645e01add.svg)
 ![chakraui (1)](https://user-images.githubusercontent.com/89202684/202718059-a9b7133b-9b9d-4556-982e-99c1702ae20c.svg)
