@@ -8,11 +8,15 @@
  **Main technologies**
 
 ![html5 (1)](https://user-images.githubusercontent.com/89202684/202717554-c768037f-5dd9-49bc-8eea-57081a2e9e4e.svg)
+
 ![css3 (2)](https://user-images.githubusercontent.com/89202684/202719387-acd4b19b-cd97-48bf-9ef4-780a79b7f3ef.svg)
+
 ![js (3)](https://user-images.githubusercontent.com/89202684/202720616-1b674488-8c5a-4eb9-92a9-d3825c1852af.svg)
 
 ![sass (1)](https://user-images.githubusercontent.com/89202684/202720912-f6691a84-2132-4b36-b5ed-7192ea450f15.png)
+
 ![react (3)](https://user-images.githubusercontent.com/89202684/202720946-d0f9603c-5223-4a93-ad7c-5fdbd4440a34.svg)
+
 ![chakraui (2)](https://user-images.githubusercontent.com/89202684/202720971-4f9223c8-ee3b-4f10-a4c8-3d24a1af278e.svg)
 
 
