@@ -15,7 +15,7 @@
 ![chakraui (2)](https://user-images.githubusercontent.com/89202684/202720971-4f9223c8-ee3b-4f10-a4c8-3d24a1af278e.svg)
 
 
-- 🎓 Ada ITW
+- 🎓 [Ada ITW](https://www.linkedin.com/school/ada-itw/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashley-zamudio-452b96236/)
 
 - I’ve been refining my project management skills with volunteer opportunities and side projects I’m looking for an opportunity where I can put those abilities to work for a mission I’m passionate about. —one of my key motivators is the ability to connect with colleagues 
