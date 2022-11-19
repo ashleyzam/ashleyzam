@@ -18,7 +18,7 @@
 - 🎓 [Ada ITW](https://www.linkedin.com/school/ada-itw/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashley-zamudio-452b96236/)
 
-- I’ve been refining my project management skills with volunteer opportunities and side projects I’m looking for an opportunity where I can put those abilities to work for a mission I’m passionate about. —one of my key motivators is the ability to connect with colleagues 
+- I’ve been refining my project management skills with volunteer opportunities and side projects I’m looking for an opportunity where I can put those abilities to work for a mission I’m passionate about. —one of my key motivators is the ability to connect with colleagues and people that are as passionate as I am.
 <!--
 **ashleyzam/ashleyzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --/>
